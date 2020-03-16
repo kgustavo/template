@@ -1,0 +1,96 @@
+.mdl-card__title-text {
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.mdl-textfield {
+    position: relative;
+    font-size: 50px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 1000px;
+    height: 100px;
+    max-width: 100%;
+    margin-top: 50px;
+    padding: 20px 0;
+}
+
+#class {
+    font-size: 50px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+    color: black;
+    font-size: 40px;
+}
+
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 700px;
+    width: 1000px;
+}
+.mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect {
+    font-size: 40px;
+}
+
+.mdl-card__supporting-text {
+    font-size: 25px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+    color: #fff;
+}
+
+.material-icons {
+    font-size: 30px;
+    margin: 20px;
+}
+
+.title {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.mdl-layout__header {
+    height: 7%;
+    width: 100%;
+}
+
+.mdl-layout__tab {
+    height: 60px;
+    width: 60px;
+}
+
+.mdl-chip { 
+    margin-top: 30px;
+    margin-left: 45px;
+    height: 60px;
+    width: 160px;
+    background-color: rgb(63,81,181);
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 30px;
+}
+
+.mdl-chip__text {
+    font-size: 20px;
+}
+
+.popular {
+    margin-top: 800px;
+    font-size: 60px;
+}
+
+.bloom {
+    font-size: 30px;
+    margin-top: 900px;
+    margin-left: inherit;
+    
+}
+
+.manga {
+   margin: 12px;
+    margin-top: 50px;
+}
